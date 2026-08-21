@@ -107,7 +107,7 @@ export const siteConfig = {
     title: 'Oopbuy Spreadsheet 2026 - Oopbuy Finds, Category Guides and Product Research',
     description: 'Explore Oopbuy Spreadsheet 2026 through organized Oopbuy finds, category overviews, focused guides and direct spreadsheet access.',
     keywords: ['oopbuy spreadsheet 2026', 'oopbuy spreadsheet', 'oopbuy finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
-    ga4: 'G-9WJTE8DY0P',
+    ga4: 'G-6SJ0909VMP',
   },
 
   // ---- Announcement Bar ----
